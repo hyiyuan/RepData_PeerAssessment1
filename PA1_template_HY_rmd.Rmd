@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Course Project 1"
 author: "Haiying Yuan"
-date: "12/7/2020"
+date: "12/16/2020"
 output: github_document
 ---
 Introduction
